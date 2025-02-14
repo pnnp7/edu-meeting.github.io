@@ -1,1 +1,1 @@
-# edumeeting.github.io
+# edu-meeting.github.io
